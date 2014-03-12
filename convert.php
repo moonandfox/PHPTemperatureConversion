@@ -65,7 +65,7 @@
 			 print "<tr><td>$r_2_k</td><td>kelvin</td></tr></table>";
 		} 
 	 }
-	 //print an error message if input is NULL or NaN
+	 //print an error message if and until input is NULL or NaN
 	 else
 		echo "<span style = \"color:red\">*Please Enter a Valid Temperature.</span>";
 }
